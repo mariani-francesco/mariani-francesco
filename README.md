@@ -1,16 +1,28 @@
-## Hi there 👋
+# Cybersecurity Project Portfolio🔐
 
-<!--
-**mariani-francesco/mariani-francesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student specializing in cybersecurity, with a focus on blue team operations and SOC analysis.  
 
-Here are some ideas to get you started:
+Building practical experience through hands-on labs, SIEM projects, and structured cybersecurity training.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each project is built by applying real-world cybersecurity concepts learned through study and hands-on training.
+
+---
+
+## 🔧 Core Skills
+
+- **SIEM & Log Analysis:** Wazuh
+- **Network Security:** Wireshark, Suricata, tcpdump
+- **Vulnerability Management:** Nmap, OpenVAS
+- **Automation & Scripting:** Python, Bash
+- **Systems:** Linux (Debian/Ubuntu), Windows (Active Directory)
+
+--- 
+
+## 🚨SIEM Monitoring & Incident Response
+
+- [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
+- [SIEM Incident Response Lab (Wazuh)](https://github.com/FrancescoMar04/Siem-incident-response-lab-wazuh.git)
+
+## 🛡️ Network Security & Hardening
+
+- [Firewall Incident Detection and Response Lab](https://github.com/FrancescoMar04/Firewall-Incident-Detection-and-Response-Lab.git) (in progress)
