@@ -13,7 +13,7 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 - **SIEM & Log Analysis:** Wazuh
 - **Network Security:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Management:** Nmap, OpenVAS
-- **Automation & Scripting:** Python, Bash
+- **Automation & Scripting:** Python
 - **Systems:** Linux (Debian/Ubuntu), Windows (Active Directory)
 
 --- 
