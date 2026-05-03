@@ -10,11 +10,12 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 
 ## 🔧 Core Skills
 
-- **SIEM & Log Analysis:** Wazuh
-- **Network Security:** Wireshark, Suricata, tcpdump, pfSense
+- **SIEM & Monitoring:** Wazuh
+- **Incident Response & Forensics:** Cyber Triage, Autopsy
+- **Networking & Network Security:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
-- **Automation & Scripting:** Python
-- **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows (Active Directory)
+- **Scripting & Automation:** Python (basic automation)
+- **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows (Active Directory), Oracle VirtualBox, VMware
 
 --- 
 
