@@ -19,7 +19,7 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 
 --- 
 
-## 🚨SIEM Monitoring & Incident Response
+## 🚨 SOC & Detection Engineering Projects
 
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/FrancescoMar04/Siem-incident-response-lab-wazuh.git)
