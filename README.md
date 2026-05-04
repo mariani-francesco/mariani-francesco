@@ -26,4 +26,4 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 
 ## 🛡️ Network Security & Hardening
 
-- [Firewall Incident Detection and Response Lab](https://github.com/FrancescoMar04/Firewall-Incident-Detection-and-Response-Lab.git)
+- [Firewall Incident Detection and Response Lab (pfSense)](https://github.com/FrancescoMar04/Firewall-Incident-Detection-and-Response-Lab.git)
