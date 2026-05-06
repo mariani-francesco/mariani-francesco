@@ -11,7 +11,7 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 ## 🔧 Core Skills
 
 - **SIEM & Monitoring:** Wazuh
-- **Incident Response & Forensics:** Cyber Triage, Autopsy
+- **Incident Response & Forensics:** Volatility (basic memory analysis), Autopsy
 - **Networking & Network Security:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
 - **Scripting & Automation:** Python (basic automation)
