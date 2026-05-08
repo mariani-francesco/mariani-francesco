@@ -8,14 +8,14 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 
 ---
 
-## 🔧 Core Skills
+## 🔧 TECHNICAL SKILLS
 
-- **SIEM & Monitoring:** Wazuh
-- **Incident Response & Forensics:** Volatility (basic memory analysis), Autopsy
+- **SIEM & Log Analysis:** Wazuh (SIEM/HIDS)
+- **Incident Response & Forensics:** Volatility (memory analysis), Autopsy
 - **Networking & Network Security:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
-- **Scripting & Automation:** Python (basic automation)
-- **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows (Active Directory), Oracle VirtualBox, VMware
+- **Scripting & Automation:** Python (security automation basics)
+- **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows (Active Directory), VirtualBox, VMware
 
 --- 
 
