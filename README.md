@@ -12,7 +12,7 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 
 - **SIEM & Log Analysis:** Wazuh (SIEM/HIDS)
 - **DFIR & Forensics:** Volatility (memory analysis), Autopsy
-- **Networking & Network Security:** Wireshark, Suricata, tcpdump, pfSense
+- **Network Security & Traffic Analysis:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
 - **Scripting & Automation:** Python (security automation basics)
 - **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows (Active Directory), VirtualBox, VMware
