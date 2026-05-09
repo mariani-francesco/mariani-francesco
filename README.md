@@ -11,7 +11,7 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 ## 🔧 TECHNICAL SKILLS
 
 - **SIEM & Log Analysis:** Wazuh (SIEM/HIDS)
-- **Incident Response & Forensics:** Volatility (memory analysis), Autopsy
+- **DFIR & Forensics:** Volatility (memory analysis), Autopsy
 - **Networking & Network Security:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
 - **Scripting & Automation:** Python (security automation basics)
