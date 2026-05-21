@@ -15,7 +15,7 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 - **Network Security & Traffic Analysis:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
 - **Scripting & Automation:** Python (security automation basics)
-- **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows (Active Directory), VirtualBox, VMware
+- **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows, Active Directory, VirtualBox, VMware
 
 --- 
 
