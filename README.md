@@ -24,10 +24,10 @@ Each project is built by applying real-world cybersecurity concepts learned thro
 - [SSH Brute Force Detection and Hardening Lab](https://github.com/FrancescoMar04/ssh-bruteforce-detection-lab.git)
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/FrancescoMar04/Siem-incident-response-lab-wazuh.git)
 
-## 🛡️ Network Security & Hardening
+## 🛡️ Network Security & Hardening Projects
 
 - [Firewall Incident Detection and Response Lab (pfSense)](https://github.com/FrancescoMar04/Firewall-Incident-Detection-and-Response-Lab.git)
 
-## 🔍 Digital Forensics & Incident Response
+## 🔍 Digital Forensics & Incident Response Projects
 
 - [Dfir Memory Disk Investigation (Volatility & Autopsy)](https://github.com/mariani-francesco/Dfir-Memory-Disk-Investigation-Volatility-Autopsy-.git)
