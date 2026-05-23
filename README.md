@@ -1,10 +1,10 @@
-# Welcome To My Cybersecurity Project Portfolio🖥️
+# Cybersecurity Project Portfolio 🖥️
 
-Computer Engineering student specializing in cybersecurity, with a focus on blue team operations and SOC analysis.  
+Computer Engineering student focused on cybersecurity, with a strong interest in blue team operations and SOC analysis.
 
-Building practical experience through labs; With projects and structured cybersecurity training.  
+This portfolio showcases hands-on cybersecurity projects focused on SIEM, log analysis, incident response, network security, DFIR, and threat detection.
 
-Each project is built by applying real-world cybersecurity concepts learned through study and hands-on training.
+Each project is built to apply real-world cybersecurity concepts through practical labs and structured learning.
 
 ---
 
