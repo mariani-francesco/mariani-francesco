@@ -2,7 +2,7 @@
 
 Computer Engineering student specializing in cybersecurity, with a focus on blue team operations and SOC analysis.  
 
-Building practical experience through hands-on labs, SIEM projects, and structured cybersecurity training.  
+Building practical experience through labs; With projects and structured cybersecurity training.  
 
 Each project is built by applying real-world cybersecurity concepts learned through study and hands-on training.
 
