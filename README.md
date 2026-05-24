@@ -14,7 +14,6 @@ Each project is built to apply real-world cybersecurity concepts through practic
 - **DFIR & Forensics:** Volatility (memory analysis), Autopsy
 - **Network Security & Traffic Analysis:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
-- **Scripting & Automation:** Python (security automation basics)
 - **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows, Active Directory, VirtualBox, VMware
 
 --- 
