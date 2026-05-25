@@ -10,8 +10,8 @@ Each project is built to apply real-world cybersecurity concepts through practic
 
 ## 🔧 TECHNICAL SKILLS
 
-- **SIEM & Log Analysis:** Wazuh (SIEM/HIDS)
-- **DFIR & Forensics:** Volatility (memory analysis), Autopsy
+- **Security Monitoring & SIEM:** Wazuh
+- **DFIR & Forensics:** Volatility, Autopsy 
 - **Network Security & Traffic Analysis:** Wireshark, Suricata, tcpdump, pfSense
 - **Vulnerability Assessment:** Nmap, OpenVAS
 - **Operating Systems & Infrastructure:** Linux (Debian/Ubuntu), Windows, Active Directory, VirtualBox, VMware
