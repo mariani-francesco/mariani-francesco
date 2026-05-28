@@ -6,17 +6,6 @@ This portfolio showcases hands-on cybersecurity projects focused on SIEM, log an
 
 Each project is built to apply real-world cybersecurity concepts through practical labs and structured learning.
 
----
-
-## 🔧 TECHNICAL SKILLS
-
-- **Security Monitoring & SIEM:** Wazuh
-- **DFIR & Forensics:** Volatility, Autopsy 
-- **Network Security & Traffic Analysis:** Wireshark, Suricata, tcpdump, pfSense
-- **Vulnerability Assessment:** Nmap, OpenVAS
-- **Scripting & Automation:** Python (security automation basics) 
-- **Operating Systems & Infrastructure:** Linux, Windows, Active Directory, VirtualBox, VMware 
-
 --- 
 
 ## 🚨 SOC, SIEM & Detection Projects
