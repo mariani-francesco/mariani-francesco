@@ -10,7 +10,6 @@ Each project is designed to strengthen both defensive and offensive security ski
 
 ## 🚨 SOC, SIEM & Detection Projects
 
-- [SSH Brute Force Detection and Hardening Lab](https://github.com/mariani-francesco/ssh-bruteforce-detection-lab)
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/mariani-francesco/Siem-incident-response-lab-wazuh)
 
 ## 🛡️ Network Security & Hardening Projects
