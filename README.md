@@ -1,18 +1,15 @@
 # Cybersecurity Project Portfolio 🖥️
 
-Computer Engineering student focused on cybersecurity, with hands-on experience across security monitoring, incident response, digital forensics, network security, and offensive security training.
+Cybersecurity-focused Computer Engineering student with hands-on experience in Blue Team operations, SIEM workflows, log analysis, and incident investigation through practical labs and security projects.
+BTL1 certified, with experience in threat detection, alert triage, DFIR, network security, and security monitoring using tools such as Wazuh, Wireshark, pfSense, Volatility, and Autopsy.
 
-This portfolio showcases practical cybersecurity projects covering SIEM operations, threat detection, DFIR, network defense, system hardening, and security assessment methodologies.
-
-Each project is designed to strengthen both defensive and offensive security skills through structured labs, real-world scenarios, and continuous hands-on learning.
+Currently expanding my offensive security skills through Hack The Box Academy, following the Certified Penetration Testing Specialist (CPTS) learning path.
 
 --- 
 
-## 🚨 SOC, SIEM & Detection Projects
+## 🛡️ Network Security  & Detection Projects
 
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/mariani-francesco/Siem-incident-response-lab-wazuh)
-
-## 🛡️ Network Security & Hardening Projects
 
 - [Firewall Incident Detection and Response Lab (pfSense)](https://github.com/mariani-francesco/Firewall-Incident-Detection-and-Response-Lab)
 
