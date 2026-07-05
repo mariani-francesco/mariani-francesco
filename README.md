@@ -1,9 +1,8 @@
 # Cybersecurity Project Portfolio 🖥️
 
-Cybersecurity-focused Computer Engineering student with hands-on experience in Blue Team operations, SIEM workflows, log analysis, and incident investigation through practical labs and security projects.
-BTL1 certified, with experience in threat detection, alert triage, DFIR, network security, and security monitoring using tools such as Wazuh, Wireshark, pfSense, Volatility, and Autopsy.
-
-Currently expanding my offensive security skills through Hack The Box Academy, following the Certified Penetration Testing Specialist (CPTS) learning path.
+Cybersecurity focused Computer Engineering student with hands-on experience in security monitoring, incident investigation, network security, and DFIR through practical labs and security projects.
+BTL1 certified and currently developing offensive security and penetration testing skills through the Hack The Box Academy CPTS learning path.
+Focused on building a strong, practical foundation across offensive security.
 
 --- 
 
