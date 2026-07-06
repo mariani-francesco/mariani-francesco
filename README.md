@@ -6,12 +6,14 @@ Focused on building a strong, practical foundation across offensive security.
 
 --- 
 
-## 🛡️ Network Security  & Detection Projects
+## Writeups
+
+- 
+
+## Projects
 
 - [SIEM Incident Response Lab (Wazuh)](https://github.com/mariani-francesco/Siem-incident-response-lab-wazuh)
 
 - [Firewall Incident Detection and Response Lab (pfSense)](https://github.com/mariani-francesco/Firewall-Incident-Detection-and-Response-Lab)
-
-## 🔍 DFIR & Forensics Projects
 
 - [DFIR Memory & Disk Investigation (Volatility & Autopsy)](https://github.com/mariani-francesco/Dfir-Memory-Disk-Investigation-Volatility-Autopsy-)
