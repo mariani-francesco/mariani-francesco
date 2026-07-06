@@ -10,7 +10,7 @@ BTL1 certified and currently preparing for the HTB Certified Penetration Testing
 
 Professional-style reports based on retired Hack The Box machines, focused on methodology, evidence, impact, and remediation.
 
-- Blackfield HTB
+- Blackfield — Hack The Box retired machine
 
 ## Projects
 
