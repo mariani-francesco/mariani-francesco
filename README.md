@@ -10,7 +10,7 @@ BTL1 certified and currently preparing for the HTB Certified Penetration Testing
 
 Professional-style reports based on retired Hack The Box machines, focused on methodology, evidence, impact, and remediation.
 
-- [Blackfield Penetration Test Report](./Blackfield_Penetration_Test_Report.pdf)
+- [Blackfield — Hack The Box retired machine](https://github.com/mariani-francesco/htb-blackfield-penetration-test-report)
 
 ## Projects
 
