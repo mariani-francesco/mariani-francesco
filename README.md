@@ -6,7 +6,9 @@ BTL1 certified and currently preparing for the HTB Certified Penetration Testing
 
 --- 
 
-## Writeups HTB hard machines
+## Offensive Security Writeups
+
+Writeups of retired HTB/THM hard machines, focused on methodology and reporting.
 
 - Blackfield
 
