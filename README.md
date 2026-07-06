@@ -2,7 +2,7 @@
 
 Cybersecurity-focused Computer Engineering student with hands-on experience in security monitoring, incident investigation, network security, and DFIR through practical labs and security projects.
 
-BTL1 certified and currently studying for the HTB Certified Penetration Testing Specialist (CPTS) certification through Hack The Box Academy.
+BTL1 certified and currently preparing for the HTB Certified Penetration Testing Specialist (CPTS) certification through Hack The Box Academy.
 
 --- 
 
