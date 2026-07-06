@@ -8,9 +8,9 @@ BTL1 certified and currently preparing for the HTB Certified Penetration Testing
 
 ## Sample Penetration Testing Reports
 
-Report of HTB/THM hard machines, focused on methodology and reporting.
+Professional-style reports based on retired Hack The Box machines, focused on methodology, evidence, impact, and remediation.
 
-- Blackfield
+- Blackfield HTB
 
 ## Projects
 
