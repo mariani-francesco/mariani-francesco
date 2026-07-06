@@ -10,7 +10,7 @@ BTL1 certified and currently preparing for the HTB Certified Penetration Testing
 
 Professional-style reports based on retired Hack The Box machines, focused on methodology, evidence, impact, and remediation.
 
-- [Blackfield — Hack The Box Active Directory Based](https://github.com/mariani-francesco/htb-blackfield-penetration-test-report)
+- [Blackfield — Hack The Box Windows Active Directory Machine](https://github.com/mariani-francesco/htb-blackfield-penetration-test-report)
 
 ## Projects
 
