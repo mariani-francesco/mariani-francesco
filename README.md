@@ -2,7 +2,7 @@
 
 Cybersecurity-focused Computer Engineering student with hands-on experience in security monitoring, incident investigation, network security, and DFIR through practical labs and security projects.
 
-BTL1 certified and currently preparing for the CompTIA CySA+ certification.
+BTL1 certified and currently preparing for the eJPT certification to further develop practical skills in penetration testing and offensive security.
 
 --- 
 
