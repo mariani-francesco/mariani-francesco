@@ -1,6 +1,6 @@
 # Cybersecurity Project Portfolio 🖥️
 
-BTL1-certified cybersecurity analyst, currently deepening my skills through hands-on labs and CTFs on TryHackMe (https://tryhackme.com/p/Francescodx).
+BTL1-certified cybersecurity analyst, currently deepening my skills through hands-on labs and CTFs on [TryHackMe](https://tryhackme.com/p/Francescodx).
 
 --- 
 
