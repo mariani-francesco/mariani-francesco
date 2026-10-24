@@ -1,8 +1,6 @@
 # Cybersecurity Project Portfolio 🖥️
 
-Cybersecurity-focused Computer Engineering student with hands-on experience in security monitoring, incident investigation, network security, and DFIR through practical labs and security projects.
-
-BTL1 certified and currently preparing for the CRTO from Zero-Point Security certification to further develop practical skills in penetration testing and offensive security.
+BTL1-certified cybersecurity analyst, currently deepening my skills through hands-on labs and CTFs on TryHackMe (https://tryhackme.com/p/Francescodx).
 
 --- 
 
